@@ -2,6 +2,9 @@
 
 This directory follow same structure as the [parent](https://github.com/vvilimek/iana-yang-sids).
 
+# Structure
+ - `readable/` human-readable .sid files
+
 # YANG Modules
  - [ietf-constrained-yang-library](ietf-constrained-yang-library.yang) revision 2019-03-28
  - [ietf-datastores](ietf-datastores.yang) revision 2018-02-14
